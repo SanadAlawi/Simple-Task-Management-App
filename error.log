@@ -1,0 +1,29 @@
+{"level":"error","message":"500 - Username or Password went wrong - /api/auth/login - POST - ::1","timestamp":"2024-09-29T17:09:04.492Z"}
+{"level":"error","message":"500 - Token is not valid! - /api/project/create - POST - ::1","timestamp":"2024-09-29T17:09:18.555Z"}
+{"level":"error","message":"500 - Token is not valid! - /api/project/66eb343987e1029c48d93b4b - GET - ::1","timestamp":"2024-09-29T17:09:56.112Z"}
+{"level":"error","message":"500 - Username or Password went wrong - /api/auth/login - POST - ::1","timestamp":"2024-09-29T17:10:06.495Z"}
+{"level":"error","message":"500 - Project not found! - /api/project/66eb343987e1029c48d93b4b - GET - ::1","timestamp":"2024-09-29T17:10:28.638Z"}
+{"level":"error","message":"500 - Token is not valid! - /api/project/create - POST - ::1","timestamp":"2024-09-29T17:11:38.960Z"}
+{"level":"error","message":"500 - Name cannot be an empty field - /api/project/create - POST - ::1","timestamp":"2024-09-29T17:12:29.147Z"}
+{"level":"error","message":"500 - Name cannot be an empty field - /api/project/create - POST - ::1","timestamp":"2024-09-29T17:12:37.149Z"}
+{"level":"error","message":"500 - Token is not valid! - /api/task/66eb343987e1029c48d93b4b - POST - ::1","timestamp":"2024-09-29T17:13:01.160Z"}
+{"level":"error","message":"500 - Project not found! - /api/task/66eb343987e1029c48d93b4b - POST - ::1","timestamp":"2024-09-29T17:13:10.144Z"}
+{"level":"error","message":"500 - \"title\" is not allowed to be empty - /api/task/66f98a52d416680ef8bb18d2 - POST - ::1","timestamp":"2024-09-29T17:14:13.602Z"}
+{"level":"error","message":"500 - \"title\" is not allowed to be empty,Status must be one of the following values: pending, in-progress, completed,\"status\" is not allowed to be empty - /api/task/66f98a52d416680ef8bb18d2 - POST - ::1","timestamp":"2024-09-29T17:14:29.157Z"}
+{"level":"error","message":"500 - [object Object] - /api/auth/login - POST - ::1","timestamp":"2024-09-29T17:23:57.947Z"}
+{"level":"error","message":"500 - [object Object] - /api/auth/login - POST - ::1","timestamp":"2024-09-29T17:24:25.619Z"}
+{"level":"error","message":"500 - [object Object] - /api/auth/login - POST - ::1","timestamp":"2024-09-29T17:25:55.168Z"}
+{"level":"error","message":"500 - [object Object] - /api/auth/login - POST - ::1","timestamp":"2024-09-29T17:26:11.109Z"}
+{"level":"error","message":"500 - [object Object] - /api/auth/login - POST - ::1","timestamp":"2024-09-29T17:28:33.173Z"}
+{"level":"error","message":"500 - [object Object] - /api/auth/login - POST - ::1","timestamp":"2024-09-29T17:40:17.104Z"}
+{"level":"error","message":"500 - [object Object] - /api/auth/login - POST - ::1","timestamp":"2024-09-29T17:40:40.784Z"}
+{"level":"error","message":"401 - Username or Password went wrong - /api/auth/login - POST - ::1","timestamp":"2024-09-29T17:45:58.947Z"}
+{"level":"error","message":"400 - Project not found! - /api/project/66eb343987e1029c48d93b4b - GET - ::1","timestamp":"2024-09-29T17:47:39.643Z"}
+{"level":"error","message":"401 - Username or Password went wrong - /api/auth/login - POST - ::1","timestamp":"2024-09-29T17:50:23.387Z"}
+{"level":"error","message":"400 - \"title\" is not allowed to be empty,Status must be one of the following values: pending, in-progress, completed,\"status\" is not allowed to be empty - /api/task/66f98a52d416680ef8bb18d2 - POST - ::1","timestamp":"2024-09-29T17:51:15.037Z"}
+{"level":"error","message":"403 - Token is not valid! - /api/auth/upload - PUT - ::1","timestamp":"2024-09-29T17:55:07.505Z"}
+{"level":"error","message":"401 - Username or Password went wrong - /api/auth/login - POST - ::1","timestamp":"2024-09-29T17:55:19.436Z"}
+{"level":"error","message":"500 - path is not defined - /api/auth/upload - PUT - ::1","timestamp":"2024-09-29T17:55:41.502Z"}
+{"level":"error","message":"400 - Username Already Taken! - /api/auth/register - POST - ::1","timestamp":"2024-09-30T11:10:34.240Z"}
+{"level":"error","message":"400 - Email must be a valid email address - /api/auth/register - POST - ::1","timestamp":"2024-09-30T11:10:39.282Z"}
+{"level":"error","message":"400 - Email must be a valid email address,Password should have a minimum length of 8,Password  must have at least 8 characters, including one uppercase letter, one lowercase letter, one digit, and one special character - /api/auth/register - POST - ::1","timestamp":"2024-09-30T11:10:45.449Z"}
